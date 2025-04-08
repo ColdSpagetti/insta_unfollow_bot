@@ -1,4 +1,4 @@
-# Instagram Unfollower Automation Bot 💔🤖
+# Instagram Unfollower Automation Bot
 
 This is a Python-based tool that helps you unfollow people who don't follow you back on Instagram.  
 It uses safe automation via `pyautogui` to open profile pages, unfollow, and even resume from where it left off!
