@@ -81,7 +81,6 @@ Edit the following inside `unfollow.py`:
 - `unfollowed_progress.json` – tracks who you’ve already unfollowed  
 - `logs/` – stores logs for each run  
 
-> ❗ **Do NOT share your personal data files (`following.json`, `followers_1.json`). Others should use their own Instagram data.**
 
 ---
 
